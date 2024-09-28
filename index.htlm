@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mes Réseaux Sociaux</title>
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            text-align: center; 
+            background-color: #f0f0f0; /* Couleur de fond de la page */
+        }
+        h1 { 
+            color: #333; /* Couleur du titre */
+        }
+        .social-links { 
+            margin-top: 20px; 
+        }
+        .social-links a { 
+            display: block;
+            margin: 10px auto;
+            padding: 10px;
+            background-color: #ffffff; /* Couleur de fond des boutons */
+            text-decoration: none;
+            color: #333; /* Couleur du texte des boutons */
+            border-radius: 5px;
+            max-width: 200px; /* Largeur maximale des boutons */
+            transition: background-color 0.3s; /* Animation au survol */
+        }
+        .social-links a:hover {
+            background-color: #e0e0e0; /* Couleur de fond au survol */
+        }
+    </style>
+</head>
+<body>
+    <h1>Mes Réseaux Sociaux</h1>
+    <div class="social-links">
+        <!-- Remplacez les URL ci-dessous par vos propres liens de réseaux sociaux -->
+        <a href="https://www.facebook.com/profile.php?id=61555300734895">Facebook</a>
+        <a href="https://www.linkedin.com/in/rakotoarisoa-michel-41a378212">LinkedIn</a>
+        <a href="https://wa.me/+261344353105">WhatsApp</a>
+        <a href="https://www.instagram.com/elmichrakotoarisoa/">Instagram</a>
+    </div>
+</body>
+</html>
